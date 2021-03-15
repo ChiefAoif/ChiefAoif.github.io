@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<title>Forward I Go</title>
+<style>
+h2{text-align: center;}
+</style>
+</head>
+<body>
+
+
+<h2>You find yourself exhausted and alone. A trail stretches out ahead of you</h2>
+<br><br>
+
+<a href="forward.html">Walk forward</a><br>
+<a href="bridge.html">Go back</a><br>
+<a href="coals.html">Turn left</a><br>
+<a href="thorns.html">Turn right</a><br>
+
+</body>
+</html>
